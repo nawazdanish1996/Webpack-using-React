@@ -18,28 +18,6 @@ A brief description of what this project does and who it's for
 - npm install webpack-dev-server --save-dev
 - npm i style-loader
 - npm i css-loader
-- 
-
-## Edit
-- package.json
-"script" : {
-    remove test
-    "build" : "webpack"
-},
-- dist/index.js
-<-body>
-    <-script src='main.js'></-script>
-</-body>
-- 
-
-## create folder/file inside the webpack
-- dist
-- src
-
-## create folder/file inside the webpack
-- dist/index.html
-- src/index.js
-- src/other.js
 
 ## Learning Source
 - Code Step By Step: https://www.youtube.com/playlist?list=PL8p2I9GklV44T0YqVWyaPDcMdMpc5F6fp
