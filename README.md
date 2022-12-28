@@ -27,11 +27,6 @@ A brief description of what this project does and who it's for
 **Client:** Webpack, React
 
 
-## Screenshots
-
-![App Screenshot](https://source.unsplash.com/random/468x300?text=App+Screenshot+Here)
-
-
 ## Feedback
 
 If you have any feedback, please reach out to us at contact.to.nd@gmail.com
