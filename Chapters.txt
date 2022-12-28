@@ -1,0 +1,9 @@
+Learning Webpack (7)
+
+1. Intro to Webpack
+2. Build for basic JavaScript App
+3. Make Config file
+4. Entry and Output file
+5. Dev Server
+6. CSS and style Loader
+7. Different config file environments
