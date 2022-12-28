@@ -24,7 +24,7 @@ A brief description of what this project does and who it's for
 
 ## Tech Stack Used
 
-**Client:** Webpack, React
+**Client:** Webpack
 
 
 ## Feedback
